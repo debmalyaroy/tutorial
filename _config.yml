@@ -120,3 +120,20 @@ comments:
     appid: 
     num_posts: 10
     colorscheme: "dark"
+
+reCaptcha:
+  enabled: true
+  siteKey: "6LfU38cZAAAAAMy4ndnaCQ3K2lStTSaEkgeJY7yK"
+  secret: "6LfU38cZAAAAAH_NjhYlTFRyQ0e8cQejnhr6Y8Kn"
+
+google:
+  search_engine_id: "7fb300817f0ae5ec2"
+
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "UA-1234567-8"
+#    anonymize_ip: false # default
+
+
+
